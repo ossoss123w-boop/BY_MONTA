@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "BY MONTA",
+      "hasCanvas": false,
+      "bodyTextLen": 373,
+      "bodyTextHash": "693eca4eb92847d8d23d3a0da5d4dab7667f82ef925c5bdd97ab3a73f7011af3",
+      "bodyTextPrefix": "Saltar al contenido BY MONTA Inicio Historial Biblioteca Me gust",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "BY MONTA",
+      "hasCanvas": false,
+      "bodyTextLen": 300,
+      "bodyTextHash": "d9b3d10076c54084e36e9a944dce44768252d7206353dddc0580bef3f5efa4eb",
+      "bodyTextPrefix": "Saltar al contenido DJ Lo que has estado escuchando Una cola con",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
