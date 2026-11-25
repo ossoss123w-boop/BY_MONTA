@@ -1,0 +1,11 @@
+{
+  "template": {
+    "slug": "by-monta",
+    "title": "BY MONTA",
+    "description": "Plantilla web creada con BY MONTA",
+    "homepage": "https://vercel.app"
+  },
+  "workspace": {
+    "runtime": "vm"
+  }
+}
